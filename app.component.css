@@ -1,0 +1,12 @@
+h1{
+   font-family: Arial, Helvetica;
+   color: dimgray;
+   text-decoration: underline;
+   line-height: 20px;
+}
+
+.showingData{
+     display:none;
+}
+
+
